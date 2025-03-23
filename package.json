@@ -1,4 +1,8 @@
 {
+  "name": "garry-trading-bot",
+  "scripts": {
+    "start": "bun index.ts"
+  },
   "dependencies": {
     "technicalindicators": "^3.1.0",
     "telegraf": "^4.16.3"
